@@ -1,4 +1,4 @@
 # AFrame-Group-Project
 project
 
-USE THE TESTER.HTML FILE IN THE FOLDER
+Apple texture file and background image file must be downloaded to be able to view it.
